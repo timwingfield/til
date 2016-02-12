@@ -10,10 +10,14 @@ is totally borrowed/ripped-off/inspired by [jbranchaud/til]
 
 ### Categories
 
+* [rspec] (#rspec)
 * [tmux] (#tmux)
 * [vim] (#vim)
 
 ---
+
+### rspec
+- [subject is expected] (rspec/subject_is_expected.md)
 
 ### tmux
 
