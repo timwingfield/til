@@ -10,11 +10,15 @@ is totally borrowed/ripped-off/inspired by [jbranchaud/til]
 
 ### Categories
 
+* [git] (#git)
 * [rspec] (#rspec)
 * [tmux] (#tmux)
 * [vim] (#vim)
 
 ---
+
+### git
+- [tig] (git/tig.md)
 
 ### rspec
 - [subject is expected] (rspec/subject_is_expected.md)
