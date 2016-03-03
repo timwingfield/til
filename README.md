@@ -20,6 +20,9 @@ is totally borrowed/ripped-off/inspired by [jbranchaud/til]
 ### git
 - [tig] (git/tig.md)
 
+### javascript
+- [npm scripts] (javascript/npm.md)
+
 ### rspec
 - [subject is expected] (rspec/subject_is_expected.md)
 
@@ -29,4 +32,5 @@ is totally borrowed/ripped-off/inspired by [jbranchaud/til]
 
 ### vim
 
+- [commands] (vim/commands.md)
 - [spell check] (vim/spellcheck.md)
