@@ -10,12 +10,17 @@ is totally borrowed/ripped-off/inspired by [jbranchaud/til]
 
 ### Categories
 
+* [coffeescript] (#coffeescript)
 * [git] (#git)
+* [javascript] (#javascript)
 * [rspec] (#rspec)
 * [tmux] (#tmux)
 * [vim] (#vim)
 
 ---
+
+### coffeescript
+- [undefined comparison] (coffeescript/undefined_check.md)
 
 ### git
 - [tig] (git/tig.md)
