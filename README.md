@@ -24,6 +24,7 @@ is totally borrowed/ripped-off/inspired by [jbranchaud/til]
 
 ### git
 - [tig] (git/tig.md)
+- [cherry pick some files] (git/cherry_pick_some_files.md)
 
 ### javascript
 - [npm scripts] (javascript/npm.md)
