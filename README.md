@@ -23,7 +23,7 @@ is totally borrowed/ripped-off/inspired by [jbranchaud/til]
 - [undefined comparison](coffeescript/undefined_check.md)
 
 ### git
-- [tig] (git/tig.md)
+- [tig](git/tig.md)
 - [cherry pick some files](git/cherry_pick_some_files.md)
 
 ### javascript
