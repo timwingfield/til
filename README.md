@@ -10,33 +10,33 @@ is totally borrowed/ripped-off/inspired by [jbranchaud/til]
 
 ### Categories
 
-* [coffeescript] (#coffeescript)
-* [git] (#git)
-* [javascript] (#javascript)
-* [rspec] (#rspec)
-* [tmux] (#tmux)
-* [vim] (#vim)
+* [coffeescript](#coffeescript)
+* [git](#git)
+* [javascript](#javascript)
+* [rspec](#rspec)
+* [tmux](#tmux)
+* [vim](#vim)
 
 ---
 
 ### coffeescript
-- [undefined comparison] (coffeescript/undefined_check.md)
+- [undefined comparison](coffeescript/undefined_check.md)
 
 ### git
 - [tig] (git/tig.md)
-- [cherry pick some files] (git/cherry_pick_some_files.md)
+- [cherry pick some files](git/cherry_pick_some_files.md)
 
 ### javascript
-- [npm scripts] (javascript/npm.md)
+- [npm scripts](javascript/npm.md)
 
 ### rspec
-- [subject is expected] (rspec/subject_is_expected.md)
+- [subject is expected](rspec/subject_is_expected.md)
 
 ### tmux
 
-- [split panes] (tmux/split_pane.md)
+- [split panes](tmux/split_pane.md)
 
 ### vim
 
-- [commands] (vim/commands.md)
-- [spell check] (vim/spellcheck.md)
+- [commands](vim/commands.md)
+- [spell check](vim/spellcheck.md)
